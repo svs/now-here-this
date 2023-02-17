@@ -1,0 +1,9 @@
+---
+layout: post
+---
+{% if jekyll.environment == 'free' %}
+{{page.excerpt}}
+{% include paywall.html %}
+{% else %}
+{{page.content}}
+{% endif %}
