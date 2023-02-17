@@ -1,6 +1,6 @@
 ---
-Title: Your Body is a Temple
-Layout: post
+title: Your Body is a Temple
+layout: mypost
 ---
 
 You know what they say, right? You've heard this line lots of times --- that your body is a temple.
