@@ -20,8 +20,8 @@
 
 title: now. here. this.
 email: svs@svs.io
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "nht" # the subpath of your site, e.g. /blog
+url: "http://nht.com:8080" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: _svs_
 theme_config:
   hide_search: true
@@ -51,3 +51,4 @@ plugins:
 #   - vendor/ruby/
 excerpt_separator: "<!--more-->"
 destination: _free
+mode: 'free'

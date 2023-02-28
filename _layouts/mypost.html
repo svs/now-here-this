@@ -1,7 +1,8 @@
 ---
 layout: post
 ---
-{% if jekyll.environment == 'free' %}
+
+{% if site.mode == 'free' %}
 {{page.excerpt}}
 {% include paywall.html %}
 {% else %}
